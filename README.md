@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @vicky-fsd </h1>
+- <h1>👋 Hi, I’m Vignesh Durairaj </h1>
 - 👀 I’m interested in web develping.
 - 🌱 I’m currently learning full stack devloper
 - 💞️ I’m looking to collaborate on ...
