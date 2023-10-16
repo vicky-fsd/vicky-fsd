@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">A passionate full stack developer - MERN from India</h3>
 <p align="center"><img src="https://media.licdn.com/dms/image/D5622AQE7QPhI0_2qQw/feedshare-shrink_2048_1536/0/1695714370353?e=1699488000&v=beta&t=hdIq8hJQGUPvuf5VKy7WeIhtdaH-KGB-JaYHhjZyDDU" alt="vicky-fsd" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky-fsd&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-fsd" /> </p>
